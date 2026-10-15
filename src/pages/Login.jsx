@@ -52,6 +52,9 @@ function Login() {
         {error && <p className="error">{error}</p>}
 
         <button type="submit">Login</button>
+        <br />
+        <br />
+                 <p>admin@gmail.com / admin123</p>
       </form>
     </div>
   );
