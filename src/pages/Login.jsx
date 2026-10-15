@@ -53,8 +53,9 @@ function Login() {
 
         <button type="submit">Login</button>
         
-<div className="login-demo-info">
-  <p>Demo Login Credentials</p>
+        <div className="login-demo-info">
+          <br/>
+  
   <span>Email: admin@gmail.com</span>
   <span>Password: admin123</span>
 </div>
